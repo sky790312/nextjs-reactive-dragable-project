@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ColorPicker component matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="ColorPicker__ColorPickerWrapper-sc-1fchp4r-0 eSLzde"
+    color="#008800"
+  >
+    <input
+      class="ColorPicker__ColorInput-sc-1fchp4r-1 gufyRf"
+      type="color"
+      value="#008800"
+    />
+  </div>
+  #008800
+</DocumentFragment>
+`;

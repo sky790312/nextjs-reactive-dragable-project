@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Block component matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="Block__BlockWrapper-sc-816v2v-0 ofJXj"
+    style="top: 10px; left: 10px;"
+  />
+</DocumentFragment>
+`;

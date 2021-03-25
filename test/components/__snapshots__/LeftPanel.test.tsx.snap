@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LeftPanel component matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="LeftPanel__LeftPanelWrapper-q1m529-0 klFdKt"
+  >
+    <div
+      class="Pages__PagesWrapper-hol3qz-0 fQzYNz"
+    >
+      <h4>
+        Pages
+      </h4>
+    </div>
+    <div
+      class="Elements__ElementsWrapper-vrh229-0"
+    >
+      <h4>
+        Elements
+      </h4>
+    </div>
+  </div>
+</DocumentFragment>
+`;

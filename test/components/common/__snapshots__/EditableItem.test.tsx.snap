@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EditableItem component matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="EditableItem__Text-apsj0b-0 jUHTNR"
+    />
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,90 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home page matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="pages__HomeWrapper-sc-1cnstz1-0 sCKFR"
+  >
+    <div
+      class="LeftPanel__LeftPanelWrapper-q1m529-0 klFdKt"
+    >
+      <div
+        class="Pages__PagesWrapper-hol3qz-0 fQzYNz"
+      >
+        <h4>
+          Pages
+        </h4>
+      </div>
+      <div
+        class="Elements__ElementsWrapper-vrh229-0"
+      >
+        <h4>
+          Elements
+        </h4>
+      </div>
+    </div>
+    <div
+      class="Canvas__CanvasWrapper-sc-5gmsqo-0 hInTKC"
+    />
+    <div
+      class="RightPanel__RightPanelWrapper-sc-1amlud5-0 dVOEbY"
+    >
+      <label
+        class="RightPanel__Label-sc-1amlud5-1 eIbqoz"
+      >
+        X 
+        <input
+          max="999"
+          min="0"
+          type="number"
+          value="0"
+        />
+      </label>
+      <label
+        class="RightPanel__Label-sc-1amlud5-1 eIbqoz"
+      >
+        Y 
+        <input
+          max="999"
+          min="0"
+          type="number"
+          value="0"
+        />
+      </label>
+      <label
+        class="RightPanel__Label-sc-1amlud5-1 eIbqoz"
+      >
+        O 
+        <input
+          max="100"
+          min="0"
+          type="number"
+          value="1"
+        />
+        <input
+          max="100"
+          min="0"
+          type="range"
+          value="100"
+        />
+      </label>
+      <label
+        class="RightPanel__Label-sc-1amlud5-1 eIbqoz"
+      >
+        B 
+        <div
+          class="ColorPicker__ColorPickerWrapper-sc-1fchp4r-0 eSLzde"
+          color="#008800"
+        >
+          <input
+            class="ColorPicker__ColorInput-sc-1fchp4r-1 gufyRf"
+            type="color"
+            value="#008800"
+          />
+        </div>
+        #008800
+      </label>
+    </div>
+  </div>
+</DocumentFragment>
+`;

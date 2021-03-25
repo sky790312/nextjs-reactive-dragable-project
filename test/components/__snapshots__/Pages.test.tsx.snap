@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pages component matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="Pages__PagesWrapper-hol3qz-0 fQzYNz"
+  >
+    <h4>
+      Pages
+    </h4>
+  </div>
+</DocumentFragment>
+`;

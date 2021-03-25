@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Canvas component matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="Canvas__CanvasWrapper-sc-5gmsqo-0 hInTKC"
+  />
+</DocumentFragment>
+`;
