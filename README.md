@@ -2,6 +2,8 @@
 
 a small sample project which contain all real project need. (with redux)
 
+![image](https://github.com/sky790312/nextjs-reactive-dragable-project/blob/main/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202021-03-26%20%E4%B8%8A%E5%8D%883.46.09.png)
+
 ## How to use
 
 check the package.json.
