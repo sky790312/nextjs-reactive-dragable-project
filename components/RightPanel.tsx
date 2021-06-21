@@ -6,7 +6,7 @@ import { blockActions } from '@/store/state.block'
 import { useSelector, shallowEqual, useDispatch } from 'react-redux'
 import { RootState } from '@/store/index'
 
-const RightPanel: React.FC = () => {
+const RightPanel: React.FC = React.memo(() => {
   const dispatch: Dispatch = useDispatch()
   const { setCurrentBlock } = blockActions
   const currentBlock = useSelector(
@@ -92,7 +92,7 @@ const RightPanel: React.FC = () => {
       </Label>
     </RightPanelWrapper>
   )
-}
+})
 
 export default RightPanel
 

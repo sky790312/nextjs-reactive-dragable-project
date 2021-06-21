@@ -5,7 +5,7 @@ import { useSelector, shallowEqual } from 'react-redux'
 import { RootState } from '@/store/index'
 import { useRouter } from 'next/router'
 
-const Canvas: React.FC = () => {
+const Canvas: React.FC = React.memo(() => {
   const router = useRouter()
   const blocks = useSelector(
     (state: RootState) => state.block.blocks,
@@ -22,7 +22,7 @@ const Canvas: React.FC = () => {
       ))}
     </CanvasWrapper>
   )
-}
+})
 
 export default Canvas
 
